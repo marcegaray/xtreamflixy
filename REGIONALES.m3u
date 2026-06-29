@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-id="t5satelital" tvg-name="t5satelital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
+#EXTINF:-1 tvg-id="5tv" tvg-name="5tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",5tv
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
