@@ -1,0 +1,139 @@
+#EXTM3U
+
+#EXTINF:-1,AMC
+http://179.60.51.134:8888/AMC/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://179.60.51.134:8888/ANIMAL-PLANET/index.m3u8
+
+#EXTINF:-1,ATV
+http://179.60.51.134:8888/ATV/index.m3u8
+
+#EXTINF:-1,AXN
+http://179.60.51.134:8888/AXN/index.m3u8
+
+#EXTINF:-1,Baby TV
+http://179.60.51.134:8888/BABY-TV/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://179.60.51.134:8888/CARTOON-NETWORK/index.m3u8
+
+#EXTINF:-1,Cartoonito
+http://179.60.51.134:8888/CARTOONITO/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://179.60.51.134:8888/CINE-CANAL/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+
+#EXTINF:-1,CNN
+http://179.60.51.134:8888/CNN/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://179.60.51.134:8888/DISCOVERY-KIDS/index.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://179.60.51.134:8888/DISCOVERY-TURBO/index.m3u8
+
+#EXTINF:-1,Disney Jr
+http://179.60.51.134:8888/DISNEY-JR/index.m3u8
+
+#EXTINF:-1,ESPN
+http://179.60.51.134:8888/ESPN/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://179.60.51.134:8888/ESPN2/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://179.60.51.134:8888/ESPN3/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://179.60.51.134:8888/ESPN4/index.m3u8
+
+#EXTINF:-1,Food Network
+http://179.60.51.134:8888/FOOD/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://179.60.51.134:8888/FOXSPORTS2/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://179.60.51.134:8888/FOXSPORTS3/index.m3u8
+
+#EXTINF:-1,FX
+http://179.60.51.134:8888/FX/index.m3u8
+
+#EXTINF:-1,Golden
+http://179.60.51.134:8888/GOLDEN/index.m3u8
+
+#EXTINF:-1,GolTV
+http://179.60.51.134:8888/GOLTV/index.m3u8
+
+#EXTINF:-1,HGTV
+http://179.60.51.134:8888/HGTV/index.m3u8
+
+#EXTINF:-1,History
+http://179.60.51.134:8888/HISTORY/index.m3u8
+
+#EXTINF:-1,History 2
+http://179.60.51.134:8888/HISTORY2/index.m3u8
+
+#EXTINF:-1,Investigation Discovery
+http://179.60.51.134:8888/ID-DISCOVERY/index.m3u8
+
+#EXTINF:-1,MTV
+http://179.60.51.134:8888/MTV/index.m3u8
+
+#EXTINF:-1,National Geographic
+http://179.60.51.134:8888/NATGEO/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://179.60.51.134:8888/NICK/index.m3u8
+
+#EXTINF:-1,Nick Jr
+http://179.60.51.134:8888/NICK-JR/index.m3u8
+
+#EXTINF:-1,Paramount Network
+http://179.60.51.134:8888/PARAMOUNT/index.m3u8
+
+#EXTINF:-1,Pasiones
+http://179.60.51.134:8888/PASIONES/index.m3u8
+
+#EXTINF:-1,RT
+http://179.60.51.134:8888/RT/index.m3u8
+
+#EXTINF:-1,Space
+http://179.60.51.134:8888/SPACE/index.m3u8
+
+#EXTINF:-1,Syfy
+http://179.60.51.134:8888/SYFY/index.m3u8
+
+#EXTINF:-1,TCM
+http://179.60.51.134:8888/TCM/index.m3u8
+
+#EXTINF:-1,Telemundo
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+
+#EXTINF:-1,teleSUR
+http://179.60.51.134:8888/TELESUR/index.m3u8
+
+#EXTINF:-1,TNT
+http://179.60.51.134:8888/TNT/index.m3u8
+
+#EXTINF:-1,TNT Novelas
+http://179.60.51.134:8888/TNT-NOVELAS/index.m3u8
+
+#EXTINF:-1,TNT Series
+http://179.60.51.134:8888/TNT-SERIES/index.m3u8
+
+#EXTINF:-1,TVC
+http://179.60.51.134:8888/TVC/index.m3u8
+
+#EXTINF:-1,Universal TV
+http://179.60.51.134:8888/UNIVERSAL/index.m3u8
+
+#EXTINF:-1,Univision
+http://179.60.51.134:8888/UNIVISION/index.m3u8
