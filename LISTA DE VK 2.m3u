@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+http://198.58.104.90:8989/aande/index.m3u8
+
+#EXTINF:-1,ACC Network
+http://198.58.104.90:8989/accnetwork/index.m3u8
+
+#EXTINF:-1,AccuWeather
+http://198.58.104.90:8989/accuweather/index.m3u8
+
+#EXTINF:-1,AMC
+http://198.58.104.90:8989/amc/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://198.58.104.90:8989/animalplanet/index.m3u8
+
+#EXTINF:-1,AXS TV
+http://198.58.104.90:8989/axstv/index.m3u8
+
+#EXTINF:-1,Bally Sports Great Lakes
+http://198.58.104.90:8989/ballysportsgreatlakes/index.m3u8
+
+#EXTINF:-1,Bally Sports Ohio
+http://198.58.104.90:8989/ballysportsohio/index.m3u8
+
+#EXTINF:-1,Bally Sports South
+http://198.58.104.90:8989/ballysportssouth/index.m3u8
+
+#EXTINF:-1,BBC America
+http://198.58.104.90:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1,MTV
+http://198.58.104.90:8989/mtv/index.m3u8
+
+#EXTINF:-1,MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1,National Geographic
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1,National Geographic Wild
+http://198.58.104.90:8989/natgeowild/index.m3u8
+
+#EXTINF:-1,NBA TV
+http://198.58.104.90:8989/nba/index.m3u8
+
+#EXTINF:-1,NewsNation
+http://198.58.104.90:8989/newsnation/index.m3u8
+
+#EXTINF:-1,NFL Network
+http://198.58.104.90:8989/nfl/index.m3u8
+
+#EXTINF:-1,NHL Network
+http://198.58.104.90:8989/nhl/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+
+#EXTINF:-1,Oxygen
+http://198.58.104.90:8989/oxygen/index.m3u8
+
+
+
+
