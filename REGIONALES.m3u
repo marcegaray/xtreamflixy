@@ -6,3 +6,6 @@ https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="corrientestv" tvg-name="corrientestv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",Corrientes TV
 https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-name="corrientestv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",Telefe Flixy Oficial
+https://announcements-hybrid-history-patches.trycloudflare.com/live/mundial2026/index.m3u8
+
