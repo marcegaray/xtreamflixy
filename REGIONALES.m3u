@@ -7,5 +7,7 @@ https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="corrientestv" tvg-name="corrientestv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",Corrientes TV
 https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-name="corrientestv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",Telefe Flixy Oficial
+https://telefeb.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/86e781e2-fdbf-46b4-9c68-d33dc078f1e4:SCL2/master.m3u8?ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&es=telefeb.cdn.mdstrm.com&proto=https&pz=us
+#EXTINF:-1 tvg-id="telefe" tvg-name="corrientestv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png" group-title="Regional",Telefe Flixy Viejo
 https://telefeb.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/d37beae5-c406-440c-91de-f5e95241ebe1:SCL2/master.m3u8?ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&es=telefeb.cdn.mdstrm.com&proto=https&pz=us
 
